@@ -1,0 +1,41 @@
+.pc{
+    padding-left: 50px;
+}
+.elementos{
+    float: right;
+    padding-left: 20%;
+
+}
+.memoria a{
+    text-decoration: none;
+    color: #000;
+    position: sticky;
+    border-radius: 5px;
+    height: 100px;
+    width: 90%;
+    padding: 15px;
+    padding-left: 70px;
+    padding-right: 70px;
+    background-color:#E7E7E7;
+}
+  
+.memoria a:hover{
+    background-color:  #416BF3;
+    color: #E7E7E7
+}
+
+select{
+    color: #000;
+    background-color:#E7E7E7;
+    border-radius: 25px;
+    height: 50px;
+    width: 270px;
+    padding: px;
+    padding-left: 20px;
+    padding-right: 10px;
+    border-color: #E7E7E7;
+}
+select :hover{
+    border-color: #E7E7E7;
+
+}
